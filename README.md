@@ -1,4 +1,4 @@
-L'Oreal Golang testing
+My Test
 ===
 
 启动参数: `-P <your root path>`
